@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Introduction to Programming",
+    "code": "CS101",
+    "description": "An introductory course to programming concepts.",
+    "credits": 55,
+    "departments": ["COMPUTER_SCIENCE", "MATHEMATICS", "ELECTRONICS"],
+    "instructorId": 2
+  },
+  {
+    "name": "Web Development",
+    "code": "CS102",
+    "description": "An introductory course to programming concepts.",
+    "credits": 50,
+    "departments": ["COMPUTER_SCIENCE", "MATHEMATICS"],
+    "instructorId": 2
+  },
+  {
+    "name": "Machine Learning",
+    "code": "CS103",
+    "description": "An introductory course to programming concepts.",
+    "credits": 40,
+    "departments": ["ELECTRONICS", "MATHEMATICS"],
+    "instructorId": 1
+  },
+  {
+    "name": "Introduction to Programming2",
+    "code": "CS104",
+    "description": "An introductory course to programming concepts.2",
+    "credits": 55,
+    "departments": ["ELECTRONICS", "COMPUTER_SCIENCE", "MATHEMATICS"],
+    "instructorId": 2
+  },
+  {
+    "name": "Web Development2",
+    "code": "CS105",
+    "description": "An introductory course to programming concepts.2",
+    "credits": 35,
+    "departments": ["COMPUTER_SCIENCE", "MATHEMATICS", "ELECTRONICS"],
+    "instructorId": 3
+  },
+  {
+    "name": "Machine Learning2",
+    "code": "CS106",
+    "description": "An introductory course to programming concepts.2",
+    "credits": 45,
+    "departments": ["ELECTRONICS", "MATHEMATICS", "COMPUTER_SCIENCE"],
+    "instructorId": 1
+  },
+  {
+    "name": "Introduction to Programming3",
+    "code": "CS107",
+    "description": "An introductory course to programming concepts.3",
+    "credits": 55,
+    "departments": ["COMPUTER_SCIENCE", "ELECTRONICS"],
+    "instructorId": 3
+  },
+  {
+    "name": "Web Development3",
+    "code": "CS108",
+    "description": "An introductory course to programming concepts.3",
+    "credits": 50,
+    "departments": ["COMPUTER_SCIENCE"],
+    "instructorId": 2
+  }
+]
